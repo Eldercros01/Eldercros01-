@@ -69,7 +69,7 @@
 
 ### 🧩 Portafolio
 
-🔗 Puedes visitar mi portafolio [aquí](https://eldercros01.github.io/personal-portfolio/)
+🔗 Puedes visitar mi portafolio [aquí](https://Eric-Montero.github.io/personal-portfolio/)
 
 ---
 
