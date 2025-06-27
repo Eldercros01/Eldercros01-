@@ -17,10 +17,15 @@
 
 ### 🎓 Certificaciones Destacadas
 
+#### 📚 FreeCodeCamp
 - 🧩 [Responsive Web Design](https://www.freecodecamp.org/certification/fcc5c6b5e38-1843-47b3-a3d0-d7b540718147/responsive-web-design)  
 - 💻 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc5c6b5e38-1843-47b3-a3d0-d7b540718147/javascript-algorithms-and-data-structures-v8)  
 - 🎨 [Front-End Development Libraries](https://www.freecodecamp.org/certification/fcc5c6b5e38-1843-47b3-a3d0-d7b540718147/front-end-development-libraries)  
 - 📊 [Data Visualization](https://www.freecodecamp.org/certification/fcc5c6b5e38-1843-47b3-a3d0-d7b540718147/data-visualization)
+
+#### 🧠 Udemy
+- 🌐 [Desarrollo Web Completo con HTML, CSS, JS, React y Node](https://www.udemy.com/certificate/UC-081dc858-8009-4f12-9a6e-4c7b2fcaf6d9/)  
+- ⚙️ [Curso Profesional de Python: Desde Cero hasta Experto](https://www.udemy.com/certificate/UC-1ea70dae-9d46-465d-b746-9c3634ee149c/)
 
 ---
 
