@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Eric Montero</h1>
 
 <p align="center">
-  Desarrollador Front-End apasionado por crear experiencias web modernas, dinámicas y funcionales.
+  Desarrollador Web Full Stack enfocado en la creación de aplicaciones modernas, escalables y eficientes usando tecnologías como React, Next.js y Django.
 </p>
 
 <p align="center">
@@ -15,13 +15,22 @@
 
 ---
 
-### 🌱 Actualmente aprendiendo:
+### 🎓 Certificaciones Destacadas
 
-- **Desarrollo Front-End moderno** con React y herramientas de UI.
-- **State Management** avanzado con Redux Toolkit.
-- Estilizado profesional con SASS, CSS Modules y Tailwind CSS.
-- **TypeScript** para aplicaciones robustas.
-- **Gráficas e interfaces con D3.js**.
+- 🧩 [Responsive Web Design](https://www.freecodecamp.org/certification/fcc5c6b5e38-1843-47b3-a3d0-d7b540718147/responsive-web-design)  
+- 💻 [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc5c6b5e38-1843-47b3-a3d0-d7b540718147/javascript-algorithms-and-data-structures-v8)  
+- 🎨 [Front-End Development Libraries](https://www.freecodecamp.org/certification/fcc5c6b5e38-1843-47b3-a3d0-d7b540718147/front-end-development-libraries)  
+- 📊 [Data Visualization](https://www.freecodecamp.org/certification/fcc5c6b5e38-1843-47b3-a3d0-d7b540718147/data-visualization)
+
+---
+
+### 🌱 Actualmente aprendiendo
+
+- TypeScript para proyectos escalables.
+- MongoDB y Express.js para backend moderno.
+- Integración de gráficos con D3.js.
+- Optimizaciones de rendimiento en aplicaciones React/Next.js.
+- Gestión avanzada de datos con bases relacionales y no relacionales.
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" />
 
@@ -35,10 +44,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
 </div>
 
 ---
